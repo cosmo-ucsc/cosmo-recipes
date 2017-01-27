@@ -1,2 +1,2 @@
 # cosmo-recipes
-AutoPkg jss overrides from Santa Cruz, California
+AutoPkg recipes from Santa Cruz, California
